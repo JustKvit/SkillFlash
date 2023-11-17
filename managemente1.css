@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+
+:root {
+    --h-height: 32px;
+    --j-justify-content: center;
+    --a-align-items: center;
+    --br-border-radius: 8px;
+    --b-border: 1px solid var(--m-3-sys-light-outline, #817568);
+     color: var(--m-3-sys-light-on-surface-variant, #4F4539);
+                  text-align: center;
+                  /* M3/label/large */
+                  font-family: Roboto;
+                  font-size: 14px;
+                  font-style: normal;
+                  font-weight: 500;
+                  line-height: 20px; /* 142.857% */
+                  letter-spacing: 0.1px;              
+}
+
+
+
+
+
+
+
+
+
